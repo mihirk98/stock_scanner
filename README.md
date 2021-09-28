@@ -1,6 +1,6 @@
 # Stock Scanner
 
-Stock Scanner is a mock Flutter application for a job application assignment.
+Stock Scanner is a mock Flutter application for a job application assignment. Developed in approximately 8 hours.
 
 # Highlights
 
