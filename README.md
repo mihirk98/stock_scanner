@@ -1,16 +1,12 @@
 # Stock Scanner
 
-A new Flutter project.
+Stock Scanner is a mock Flutter application for a job application assignment.
 
-## Getting Started
+# Highlights
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Unit tests (including widget testing)
+- Text processing (check lib -> controllers -> detail_controller -> processText)
+  Strings contain "variables" indicated by "$" signs. Dollar signs are identified and replaced with clickable TextSpans with the appropriate data. Variables are of       more than one types.
+- Parse complex JSON data
+- Data models
+- Fetch data from a webpage and display it in a ListView
