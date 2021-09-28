@@ -1,4 +1,4 @@
-# stock
+# Stock Scanner
 
 A new Flutter project.
 
